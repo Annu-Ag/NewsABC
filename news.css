@@ -1,0 +1,37 @@
+﻿body {
+    font: 'Montserrat',sans-serif;
+}
+
+.heading {
+    text-align: center;
+}
+
+.navbar-custom {
+    background-color: #FEE9E2;
+}
+
+.card {
+    padding: 6px 20px;
+    border: none;
+    background-color: none;
+    /*border-spacing: 0 1em;*/
+}
+
+#cardView {
+    padding: 6px 6px;
+    margin-right: -15px;
+    /*font-size:2px;*/
+}
+
+.card-header {
+    background-color: none;
+}
+
+h4 {
+    padding: 3px 3px;
+    margin-left: 20px;
+}
+
+.heading {
+    font-family: 'Times New Roman';
+}
